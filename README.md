@@ -25,7 +25,7 @@ The analysis focuses on answering the following key questions:
 To find the most demanded skills for the top 3 most popular data roles I filtered out those position which ones were the most popular and get the top 5 skills for top 3 roles. This query highlight the most popular job titles and their top skills, showing which skills should I pay attention to depending on the role I am targeting.
 
 View my notebook with detailed steps here:
-[2_Skill_Demand.ipynb](3_Project\2_Skill_Demand.ipynb)
+[2_Skill_Demand.ipynb](3_Project/2_Skill_Demand.ipynb)
 
 ## Visualise Data
 
