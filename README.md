@@ -50,7 +50,7 @@ plt.show()
 ```
 ### Results
 
-![Visualisation of Top Skills for Data Nerds](3_Project\images\Skill_Demand_All_Data_Roles.png)
+![Visualisation of Top Skills for Data Nerds](3_Project/images/Skill_Demand_All_Data_Roles.png)
 
 ### Insights
 
@@ -111,7 +111,7 @@ ax=ax.yaxis.set_major_formatter(PercentFormatter(decimals=0))
 ```
 ### Results
 
-![Trending Top Skills for Data Analyst in US](3_Project\images\Trending_skills_for_Data_Analyst.png)
+![Trending Top Skills for Data Analyst in US](3_Project/images/Trending_skills_for_Data_Analyst.png)
 
 ### Insights
 Based on the graph, here are concise insights:
@@ -149,7 +149,7 @@ plt.show()
 ```
 
 ### Results
-![Salary Distributions of Data Jobs in US](3_Project\images\Salary_Analysis_Data_Analyst.png)
+![Salary Distributions of Data Jobs in US](3_Project/images/Salary_Analysis_Data_Analyst.png)
 
 ### Insights
 
@@ -198,7 +198,7 @@ ax[1].xaxis.set_major_formatter(plt.FuncFormatter(lambda x, pos: f'${int(x/1000)
 plt.tight_layout()
 ```
 ### Results
-![The Highest Paid and Most In Demand Skills for Data Analysis](3_Project\images\Highest_paid.png)
+![The Highest Paid and Most In Demand Skills for Data Analysis](3_Project/images/Highest_paid.png)
 *Two seperate bar graph visualising the highest paid skills and most in demand skills for Data Analyst in US.*
 
 ### Insights
@@ -242,7 +242,7 @@ ax=ax.xaxis.set_major_formatter(PercentFormatter(decimals=0))
 plt.tight_layout()
 plt.show()
 ```
-![Most optimal skills for Data Analyst in the US](3_Project\images\optimal_skills.png)
+![Most optimal skills for Data Analyst in the US](3_Project/images/optimal_skills.png)
 *A scatter plot visualizing the most optimal skills (high paying and high demand) for Data Analysts in the US.*
 
 ### Insights
